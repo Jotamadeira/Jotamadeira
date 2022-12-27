@@ -1,4 +1,4 @@
-### Hello there, you can call me <strong>Jota</strong>.<br>
+## Hello there, you can call me <strong>Jota</strong>.<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
@@ -19,11 +19,22 @@
   🔎 Major Interests: <strong>Control Systems, Signal Processing, Systems Optimization.</strong>
 </p>
 
+---
 
 
-<p align="left">
-  
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+## Academic Experience <br>
 
-</p>  
+<p align="center">
+ <img src="https://studentspace.org.uk/assets/images/student-space_illustrations_studying.png" min-width="600px" max-width="600px" width="600px" >
+</p>
+
+> **2022 - Present | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
+ &nbsp; Scientific and technological researcher focused on Statistical Process Control (SPC) in industrial plants.<br><br>
+> **2022 - 2023 | PID Tuning using Particle Swarm Optimization (PSO)** <br>
+ &nbsp; A research about use PSO and other optimization functions to improve a Proportional Integral Derivative (PID) Controller.<br><br> 
+> **2019 - 2020 | Physics 1 and 2 Teacher's Assistant**<br>
+ &nbsp; As a TA, I worked to help students at better fixating the course's material, and to help them solving problems, which were proposed by the teacher with the objective of better consolidating the proposed content. <br> <br>
+
+
+
+
