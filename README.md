@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  🔎 interests: <strong>Control Systems, Signal Processing, Systems Optimization.</strong>
+  🔎 Major Interests: <strong>Control Systems, Signal Processing, Systems Optimization.</strong>
 </p>
 
 
