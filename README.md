@@ -38,3 +38,7 @@
 
 ## Tools: 
 [![My Skills](https://skills.thijs.gg/icons?i=matlab,vscode,latex,arduino)](https://skills.thijs.gg)
+
+## Connect with me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joão-pedro-madeira-araujo-a503171b1/)
+&nbsp;
