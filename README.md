@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💡 Personal Skills: <strong>Analytical Capacity, Team Leadership, Machine Learning.</strong>
+  💡 Personal Skills: <strong>Analytical Capacity, Team Leadership, Problem Solving.</strong>
 </p>
 
 <p align="left">
