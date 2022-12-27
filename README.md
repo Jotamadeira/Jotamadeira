@@ -25,7 +25,7 @@
 ## Academic Experience <br>
 
 <p align="center">
- <img src="https://studentspace.org.uk/assets/images/student-space_illustrations_studying.png" min-width="400px" max-width="400px" width="400px" >
+ <img src="https://studentspace.org.uk/assets/images/student-space_illustrations_studying.png" min-width="500px" max-width="500px" width="500px" >
 </p>
 
 > **2022 - Present | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
