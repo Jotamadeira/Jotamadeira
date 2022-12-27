@@ -36,5 +36,5 @@
  &nbsp; As a TA, I worked to help students at better fixating the course's material, and to help them solving problems, which were proposed by the teacher with the objective of better consolidating the proposed content. <br> <br>
 
 
-
-
+## Tools: 
+[![My Skills](https://skills.thijs.gg/icons?i=matlab,vscode,latex,arduino)](https://skills.thijs.gg)
