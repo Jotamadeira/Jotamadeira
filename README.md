@@ -4,7 +4,7 @@
 <p align="left"> 
 
  &nbsp; My name is João Pedro Madeira Araujo, student of Control and Automation Engineering at the UFMT (Federal University of Mato Grosso) starting the 9th semester.<br>
- &nbsp; I am a hard-working and objective person, I always try my best to learn what is being taught to me to apply not only in the proposed task, but also to achieve my goals in life.
+ &nbsp; I am a hard-working and objective person, I always try my best to learn what is being taught to me, to apply not only in the proposed task, but also to achieve my goals in life.
 </p>
 
 <p align="left">
