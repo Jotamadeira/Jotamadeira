@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  ###Hello there, you can call me <strong>Jota</strong>.<br>
+  ### Hello there, you can call me <strong>Jota</strong>.<br>
   My name is João Pedro Madeira Araujo and I'm 24 years old. I'm a student Control and Automation Engineering at the Federal University of Mato Grosso starting the 9th. I am a hard-working and objective person, I always try my best to learn what is being taught to me to apply not only in the proposed task, but also to achieve my goals in life.
 </p>
 
