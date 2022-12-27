@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, my name is João Pedro but you can call me Jota too! 
 
 <!--
 **Jotamadeira/Jotamadeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
