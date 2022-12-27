@@ -29,7 +29,7 @@
 </p>
 
 > **2022 - Present | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
- &nbsp; Scientific and technological researcher focused on Statistical Process Control (SPC) in industrial plants.<br><br>
+ &nbsp; Scientific and technological research focused on Statistical Process Control (SPC) in industrial plants.<br><br>
 > **2022 - 2023 | PID Tuning using Particle Swarm Optimization (PSO)** <br>
  &nbsp; A research about use PSO and other optimization functions to improve a Proportional Integral Derivative (PID) Controller.<br><br> 
 > **2019 - 2020 | Physics 1 and 2 Teacher's Assistant**<br>
