@@ -28,6 +28,8 @@
  <img src="https://studentspace.org.uk/assets/images/student-space_illustrations_studying.png" min-width="500px" max-width="500px" width="500px" >
 </p>
 
+> **2023 - Present | Control Systems 2 Teacher's Assistant** <br>
+
 > **2022 - Present | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
  &nbsp; Scientific and technological research focused on Statistical Process Control (SPC) in industrial plants.<br><br>
 > **2022 - 2023 | PID Tuning using Particle Swarm Optimization (PSO)** <br>
