@@ -3,7 +3,7 @@
 
 <p align="left"> 
 
- &nbsp; My name is João Pedro Madeira Araujo, student of Control and Automation Engineering at the UFMT (Federal University of Mato Grosso) starting the 9th semester.<br>
+ &nbsp; My name is João Pedro Madeira Araujo, student of Control and Automation Engineering at the UFMT (Federal University of Mato Grosso) starting the 10th semester.<br>
  &nbsp; I am a hard-working and objective person, I always try my best to learn what is being taught to me, to apply not only in the proposed task, but also to achieve my goals in life.
 </p>
 
@@ -28,13 +28,11 @@
  <img src="https://studentspace.org.uk/assets/images/student-space_illustrations_studying.png" min-width="500px" max-width="500px" width="500px" >
 </p>
 
-> **2023 - Present | Control Systems 2 Teacher's Assistant** <br>
-
-> **2022 - Present | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
+> **2022 - 2023 | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
  &nbsp; Scientific and technological research focused on Statistical Process Control (SPC) in industrial plants.<br><br>
 > **2022 - 2023 | PID Tuning using Particle Swarm Optimization (PSO)** <br>
  &nbsp; A research about use PSO and other optimization functions to improve a Proportional Integral Derivative (PID) Controller.<br><br> 
-> **2019 - 2020 | Physics 1 and 2 Teacher's Assistant**<br>
+> **2019 | 2020 | 2023 | Physics 1, Physics 2 , Control Systems 2 Teacher's Assistant**<br>
  &nbsp; As a TA, I worked to help students at better fixating the course's material, and to help them solving problems, which were proposed by the teacher with the objective of better consolidating the proposed content. <br> <br>
 
 
