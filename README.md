@@ -19,7 +19,7 @@ PhD Researcher at TWI & Brunel University London specializing in the Control and
 - **Technologies**: DED Equipment, EHLA Process, Control Systems
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/joão-pedromadeira-araujo-a503171b1](https://www.linkedin.com/in/joão-pedromadeira-araujo-a503171b1)](https://www.linkedin.com/in/jo%C3%A3o-pedro-madeira-araujo-a503171b1/)
+- **LinkedIn**: [linkedin.com/in/joão-pedromadeira-araujo-a503171b1](https://www.linkedin.com/in/joão-pedromadeira-araujo-a503171b1)]
 - **GitHub**: [github.com/Jotamadeira](https://github.com/Jotamadeira)
 
 ## 📊 GitHub Stats
