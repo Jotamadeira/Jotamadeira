@@ -1,6 +1,8 @@
 
 # Hi there, I'm Joao Pedro Madeira Araujo 👋
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=JotaMadeira&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 ## About Me
 PhD Researcher at TWI & Brunel University London specializing in the Control and Monitoring of Laser Directed Energy Deposition (DED) Technology for coatings, repair, and additive manufacturing. Passionate about advanced manufacturing technologies and their real-world applications. 
 
@@ -63,4 +65,4 @@ The area's objective is to diagnose electrical, pneumatic, and hydraulic defects
 - **Portuguese**: Native or Bilingual
 - **English**: Full Professional
 - **German**: Elementary
-- **Spanish**: Limited Working
+- **Spanish**: Elementary
