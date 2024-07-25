@@ -1,44 +1,66 @@
-## Hello there, you can call me <strong>Jota</strong><br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
+# Hi there, I'm Joao Pedro Madeira Araujo 👋
 
- &nbsp; My name is João Pedro Madeira Araujo, student of Control and Automation Engineering at the UFMT (Federal University of Mato Grosso) starting the 10th semester.<br>
- &nbsp; I am a hard-working and objective person, I always try my best to learn what is being taught to me, to apply not only in the proposed task, but also to achieve my goals in life.
-</p>
+## About Me
+PhD Researcher at TWI & Brunel University London specializing in the Control and Monitoring of Laser Directed Energy Deposition (DED) Technology for coatings, repair, and additive manufacturing. Passionate about advanced manufacturing technologies and their real-world applications. 
 
-<p align="left">
-💻 Programming Languages: <strong>Python, C, C++.</strong>
-</p>
+## 🔬 Research Interests
+- Laser Directed Energy Deposition (DED) Technology
+- Coatings and Repair Technologies
+- Additive Manufacturing
+- Digital Analysis and AI for Manufacturing
 
-<p align="left">
-  💡 Personal Skills: <strong>Analytical Capacity, Team Leadership, Problem Solving.</strong>
-</p>
+## 🛠️ Skills
+- **Research and Development (R&D)**
+- **Computer Vision**
+- **System Monitoring**
+- **Languages**: Python, SQL
+- **Tools**: MySQL, VSCode, MATLAB
+- **Technologies**: DED Equipment, EHLA Process, Control Systems
 
-<p align="left">
-  🔎 Major Interests: <strong>Control Systems, Signal Processing, Systems Optimization.</strong>
-</p>
+## 📫 How to Reach Me
+- **LinkedIn**: [linkedin.com/in/joão-pedromadeira-araujo-a503171b1](https://www.linkedin.com/in/joão-pedromadeira-araujo-a503171b1)
+- **GitHub**: [github.com/Jotamadeira](https://github.com/Jotamadeira)
 
----
+## 📊 GitHub Stats
+![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotamadeira&show_icons=true&theme=radical)
 
+## 💼 Professional Experience
 
-## Academic Experience <br>
+### TWI
+**Doctoral Researcher**  
+*July 2024 - Present*  
+Sheffield, England, United Kingdom  
+Specializing in the Control and Monitoring of Laser Directed Energy Deposition (DED) Technology for coatings, repair, and additive manufacturing. Engaged in working with state-of-the-art DED equipment, including the Extreme High-Speed Laser Application (EHLA) process. Responsibilities encompass researching and documenting DED parameters that influence part quality, developing and implementing monitoring systems and control techniques to enhance consistency, and exploring digital analysis and AI applications for closed-loop control. This role involves conducting research to advance the technology, developing innovative solutions, and contributing to the field through detailed analysis and practical applications. The position aligns with pursuing a PhD dedicated to these cutting-edge advancements.
 
-<p align="center">
- <img src="https://studentspace.org.uk/assets/images/student-space_illustrations_studying.png" min-width="500px" max-width="500px" width="500px" >
-</p>
+### Fraunhofer ILT
+**Student Assistant (HiWi)**  
+*July 2023 - July 2024*  
+Aachen, North Rhine-Westphalia, Germany  
+Engaged in the application and digitalization of additive manufacturing, with hands-on experience in this cutting-edge field while collaborating with experienced engineers, researchers, and students. Responsibilities entail developing, testing, and optimizing control systems for sensors used in additive manufacturing, as well as collaborating with team members to identify and resolve technical issues and explore opportunities for improvement.
 
-> **2022 - 2023 | Study of Techniques for Monitoring, Detecting, Diagnosing and Repairing Failures in Dynamic Industrial Processes** <br>
- &nbsp; Scientific and technological research focused on Statistical Process Control (SPC) in industrial plants.<br><br>
-> **2022 - 2023 | PID Tuning using Particle Swarm Optimization (PSO)** <br>
- &nbsp; A research about use PSO and other optimization functions to improve a Proportional Integral Derivative (PID) Controller.<br><br> 
-> **2019 | 2020 | 2023 | Physics 1, Physics 2 , Control Systems 2 Teacher's Assistant**<br>
- &nbsp; As a TA, I worked to help students at better fixating the course's material, and to help them solving problems, which were proposed by the teacher with the objective of better consolidating the proposed content. <br> <br>
+### Siemens Healthineers
+**Field Engineering Intern**  
+*May 2022 - June 2023*  
+Cuiabá, Mato Grosso, Brazil  
+The area's objective is to diagnose electrical, pneumatic, and hydraulic defects. Carrying out electrical maintenance following the company's instruction manual. General calibration of laboratory equipment, diagnostic imaging equipment, and electromechanical equipment, such as sample dosing arms. Preparation of performance reports for customer equipment (dashboards). Control of parts used by customers. Installation, backup, and reinstallation of equipment software. Preventive and cleaning actions on equipment.
 
+## 🎓 Education
 
-## Tools: 
-[![My Skills](https://skills.thijs.gg/icons?i=matlab,vscode,latex,arduino)](https://skills.thijs.gg)
+### Brunel University London
+**Doctor of Philosophy (PhD)**, Mechanical and Aerospace Engineering  
+*July 2024 - July 2027*
 
-## Connect with me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/joão-pedro-madeira-araujo-a503171b1/)
-&nbsp;
+### UFMT - Federal University of Mato Grosso
+**Bachelor's degree**, Control and Automation Engineering  
+*November 2018 - April 2024*
+
+### RWTH Aachen University
+**Bachelor's degree**, Industrial Engineering (Mechanical Engineering)  
+*June 2023 - July 2024*
+
+## 🌐 Languages
+- **Portuguese**: Native or Bilingual
+- **English**: Full Professional
+- **German**: Elementary
+- **Spanish**: Limited Working
